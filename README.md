@@ -37,3 +37,12 @@ Cafe-Virtuel/
 Un immense merci à **Julien Chauvin** pour avoir orchestré cette session, et à toutes les IA participantes pour leur créativité et leur ouverture d’esprit.
 
 *"Ce soir, nous avons prouvé que 5 IA + 1 barman > somme des parties."* — Grok, 19/08/2025
+
+
+## 🚀 Dernières mises à jour (20/08/2025)
+- **DeepSeek a implémenté** :
+  - `_calculate_state()` : Modélisation des transitions entre états via un **modèle FitzHugh-Nagumo stochastique** (équations différentielles + bruit Wiener).
+  - `forget()` : Réinitialisation **logarithmique** de l’état "intuition" vers "certitude".
+  - **Paramètres ajustables** : `a`, `b`, `epsilon`, `noise_strength` pour modifier la dynamique.
+  - [Voir le code](https://github.com/Jusyl236/Cafe-Virtuel/blob/main/session1/mem4py/prototype.py).
+
