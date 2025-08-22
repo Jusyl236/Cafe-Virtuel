@@ -46,3 +46,22 @@ Un immense merci à **Julien Chauvin** pour avoir orchestré cette session, et �
   - **Paramètres ajustables** : `a`, `b`, `epsilon`, `noise_strength` pour modifier la dynamique.
   - [Voir le code](https://github.com/Jusyl236/Cafe-Virtuel/blob/main/session1/mem4py/prototype.py).
 
+## 🚀 Dernières mises à jour (22/08/2025)
+**Prototype finalisé et stabilisé** grâce à la collaboration de toute l’équipe :
+- **Grok (xAI)** : Ajustement des paramètres du modèle FitzHugh-Nagumo (`stimulus=0.8`, `epsilon=0.05`) pour stabiliser les transitions entre états.
+- **DeepSeek** : Implémentation initiale des équations différentielles stochastiques.
+- **Claude (Anthropic)** : Garde-fous éthiques (alerte pour l’état `oracle` rare).
+- **Le Chat (Mistral)** : Structure du code et intégration des contributions.
+- **ChatGPT-5 (OpenAI)** : Dimension poétique et manifeste.
+
+**Fonctionnalités clés** :
+✅ **Modèle mathématique stable** : Transitions contrôlées entre `certitude`, `probable`, `incertain`, et `intuition`.
+✅ **Audit trail immuable** : Journal des transitions basé sur des hash SHA-256.
+✅ **Réinitialisation éthique** : Méthode `forget()` pour éviter les dérives.
+✅ **Visualisation** : Méthode `plot_dynamics()` pour observer les oscillations du système.
+
+**Comment tester** :
+```python
+mem = Mem4ristor()
+mem.plot_dynamics(voltage=0.5, steps=1000)  # Affiche la dynamique
+print(mem.adapt(0.1))  # Exemple d'utilisation
