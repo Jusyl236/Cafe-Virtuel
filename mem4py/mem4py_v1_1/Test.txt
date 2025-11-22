@@ -1,0 +1,26 @@
+PS C:\Users\julch\Desktop\mem4py> python Test_memristor.py
+.Transition: certitude → probable (v=1.299)
+..Transition: certitude → probable (v=1.287)
+Transition: probable → certitude (v=1.305)
+Transition: certitude → probable (v=1.274)
+Transition: probable → incertain (v=0.600)
+Transition: incertain → intuition (v=-0.507)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.152)
+Transition: intuition → oracle (v=-1.152)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.390)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.598)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.739)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.873)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.945)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.960)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.978)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.996)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-2.006)
+⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.993)
+..⚠️ ALERTE ÉTHIQUE: Transition vers oracle (v=-1.899)
+Transition: certitude → oracle (v=-1.899)
+.
+----------------------------------------------------------------------
+Ran 6 tests in 0.038s
+
+OK
