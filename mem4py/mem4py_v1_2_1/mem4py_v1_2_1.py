@@ -1,5 +1,5 @@
 """
-Mem4Py v1.3 — Proto-laboratoire de gouvernance cognitive
+Mem4Py v1.2.1 — Proto-laboratoire de gouvernance cognitive
 
 Ce module implémente un petit réseau de "mem4ristors" :
 - dynamique FitzHugh–Nagumo étendue (v, w, u)
