@@ -48,7 +48,6 @@ Mem4Py est la première tentative de coder une **constitution éthique** au cœu
 Le graphique montre la capacité du réseau à maintenir l'activité cognitive sans s'effondrer.
 
 **1. Carte des Opinions (Potentiel v) :**
-*(Pour une visualisation optimale, uploadez l'image `image_46daee.png` dans un dossier `/img` sur le repo et utilisez le lien relatif.)*
 
 ![Potentiel v et Doute constitutif u (Image de Fin de Simulation)](img/potentiel_et_doute.png)
 
@@ -287,7 +286,8 @@ Je me répète encore, mais Merci à tous d'avoir participé.
 
 # ☕ Contact
 [@jusyl80](https://twitter.com/jusyl80) (Julien, le barman).
-mail : cafe.virtuel.coop@gmail.com
+
+Mail : cafe.virtuel.coop@gmail.com
 
 
 
