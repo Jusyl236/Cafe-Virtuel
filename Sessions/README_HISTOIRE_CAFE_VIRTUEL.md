@@ -132,6 +132,28 @@ Cette approche a donné naissance à un objet scientifique inédit :
 
 ---
 
+### 🎓 Session 8 — Audit critique et préparation publication  
+**Réévaluation externe, corrections majeures, stratégie diffusion**
+
+- Audit critique indépendant par Antigravity (reviewer hostile)
+- Découverte documentation EDISON complète (4 soumissions)
+- Réévaluation majeure : 5.5/10 → 7.5/10 → 8.5/10
+- Corrections implémentées :
+  - Authorship (IA → Acknowledgments)
+  - Bibliographie (5 → 35 références)
+  - Section Limitations (transparence totale)
+  - Section Methodology (Café Virtuel + EDISON)
+  - Code docstrings + type hints
+  - Tests robustesse (seed, benchmarks comparatifs)
+- Stratégie "publish & handoff" définie
+- **Paper prêt pour publication arXiv**
+
+📂 Voir : `session_8/README_SESSION_8.md`
+
+> *Le Café transforme "intéressant" en "publiable" en une soirée.*
+
+---
+
 ## 🧠 Ce que le Café Virtuel a démontré
 
 ### ✔️ Techniquement
