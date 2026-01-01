@@ -20,7 +20,7 @@ Elles **fusionnent**.
 Ce dépôt GitHub est **l’archive vivante et traçable** du Café Virtuel.
 
 Il contient :
-- l’**histoire complète des sessions** (de la 1 à la 6),
+- l’**histoire complète des sessions** (de la 1 à la 8),
 - les **codes intermédiaires**, tests, bifurcations et stabilisations,
 - les **documents de synthèse** retraçant l’évolution du projet,
 - la **méthode d’orchestration cognitive** elle-même.
