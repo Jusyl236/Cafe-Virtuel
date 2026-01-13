@@ -154,6 +154,35 @@ Cette approche a donné naissance à un objet scientifique inédit :
 
 ---
 
+### 🚀 Session 9 — Vers la v2.2
+**Automatisatisation & Exploration Massive**
+
+- Mise en place du **Méta-Audit** (Grid Search)
+- Exploration des limites du modèle sur 14,400 scénarios
+- Découverte de la **Loi de Fragilité (35%)**
+- Première version du Dashboard Premium
+
+📂 Voir : `session_9/SESSION_RECAP.md`
+
+> *Le Café industrialise sa recherche.*
+
+---
+
+### 🛡️ Session 10 — Blindage Scientifique (v2.2 Final)
+**Rigueur Académique, Résilience Byzantine & Insights Manus AI**
+
+- Révision critique du preprint pour une **transparence radicale** (Statement on AI Tooling)
+- Intégration de la **Résilience Byzantine** (test réussi face à la corruption)
+- Formalisation de la **Synchronisation Frustrée** (interprétation physique)
+- Preuve de concept hardware via netlist **SPICE 1T1R**
+- Optimisation Stencil pour le **scaling $O(N)$** (40 000 neurones)
+
+📂 Voir : `session_10/Discussion Antigravity - Session 10 - Blindage Scientifique.md`
+
+> *Le Café produit un dossier scientifique inattaquable.*
+
+---
+
 ## 🧠 Ce que le Café Virtuel a démontré
 
 ### ✔️ Techniquement
