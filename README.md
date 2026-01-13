@@ -82,7 +82,7 @@ Le Café Virtuel a donné naissance à des artefacts concrets, dont le plus avan
 - **Mem4ristor / Mem4Py** — un moteur cognitif neuromorphique intégrant le doute comme mécanisme structurel.
 
 👉 Le **moteur scientifique canonique** est maintenu dans un dépôt séparé :  
-🔬 https://github.com/cafe-virtuel/mem4ristor-v2.git
+🔬 https://github.com/cafe-virtuel/mem4ristor-v2
 
 Ce dépôt-ci en conserve la **genèse complète**, les versions intermédiaires et le contexte d’émergence.
 
